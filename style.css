@@ -1,0 +1,23 @@
+.red{
+color: red;
+}
+.hero-area{
+min-height:800px;
+}
+.hero-area h1{
+padding: 300px;
+}
+.footer{
+min-height:100px;
+color:white;
+padding: 30px;
+background-color: black;  
+}
+.mynav{
+background-color: red!important;
+color:black!important;
+}
+.mynav a{
+background-color: red!important;
+color:black!important;
+}
